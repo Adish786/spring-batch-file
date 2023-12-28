@@ -13,7 +13,6 @@ public class CustomerItemWriter implements ItemWriter<Customer> {
 
     @Autowired
     private CustomerRepository repository;
-
     @Override
     public void write(List<? extends Customer> list) throws Exception {
         System.out.println("Writer Thread "+Thread.currentThread().getName());
