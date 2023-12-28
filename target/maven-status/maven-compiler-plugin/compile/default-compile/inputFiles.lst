@@ -1,0 +1,10 @@
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\config\CustomerProcessor.java
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\SpringBatchExampleApplication.java
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\entity\Customer.java
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\listener\StepSkipListener.java
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\config\SpringBatchConfig.java
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\controller\BatchJobController.java
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\config\CustomerItemWriter.java
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\repository\CustomerRepository.java
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\config\JobCompletionNotificationListener.java
+C:\MyDocuments\JavaProject2023\spring-batch-file\src\main\java\com\spring\batch\config\ExceptionSkipPolicy.java

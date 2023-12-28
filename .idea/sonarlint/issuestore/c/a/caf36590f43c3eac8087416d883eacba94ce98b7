@@ -1,0 +1,11 @@
+
+q	java:S116+"WRename this field "TEMP_STORAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Ê«åÿÿÿÿÿ
+<
+java:S1170+"!Make this final field static too.(¾Ê«åÿÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ü³Ú©ûÿÿÿÿ
+S
+java:S1854>"=Remove this useless assignment to local variable "execution".(­Á¢¡
+D
+java:S1481>".Remove this unused "execution" local variable.(­Á¢¡
+Q	java:S125@"<This block of commented-out lines of code should be removed.(¤¿Ø
